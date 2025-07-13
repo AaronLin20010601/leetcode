@@ -1,9 +1,9 @@
 # leetcode records
 -----
-### Amounts of questions completed: 17
+### Amounts of questions completed: 20
 - Languages used:
-  - C#(9 of 17 questions)
-  - TypeScript(8 of 17 questions)
+  - C# (11 of 20 questions)
+  - TypeScript (9 of 20 questions)
 -----
 ### Questions completed:
 - Q1. Two Sum (Language: C#, Runtime: 1ms, beats 98.61%, Memory: 49.04mb, beats 37.83%)
@@ -23,3 +23,6 @@
 - Q15. 3Sum (Language: C#, Runtime: 34ms, beats 78.09%, Memory: 65.43mb, beats 95.62%)
 - Q16. 3Sum Closest (Language: C#, Runtime: 15ms, beats 46.76%, Memory: 43.40mb, beats 50.50%)
 - Q17. Letter Combinations of a Phone Number (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 55.52mb, beats 32.25%)
+- Q18. 4Sum (Language: C#, Runtime: 16ms, beats 53.14%, Memory: 48.59mb, beats 89.47%)
+- Q19. Remove Nth Node From End of List (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 42.66mb, beats 27.98%)
+- Q20. Valid Parentheses (Language: TypeScript, Runtime: 3ms, beats 58.76%, Memory: 57.95mb, beats 42.84%)
