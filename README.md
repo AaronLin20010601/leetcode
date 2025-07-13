@@ -1,6 +1,9 @@
 # leetcode records
 -----
-### Amounts of questions completed: 15
+### Amounts of questions completed: 17
+- Languages used:
+  - C#(9 of 17 questions)
+  - TypeScript(8 of 17 questions)
 -----
 ### Questions completed:
 - Q1. Two Sum (Language: C#, Runtime: 1ms, beats 98.61%, Memory: 49.04mb, beats 37.83%)
@@ -18,3 +21,5 @@
 - Q13. Roman to Integer (Language: TypeScript, Runtime: 4ms, beats 77.23%, Memory: 61.28mb, beats 79.15%)
 - Q14. Longest Common Prefix (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 54.10mb, beats 97.05%)
 - Q15. 3Sum (Language: C#, Runtime: 34ms, beats 78.09%, Memory: 65.43mb, beats 95.62%)
+- Q16. 3Sum Closest (Language: C#, Runtime: 15ms, beats 46.76%, Memory: 43.40mb, beats 50.50%)
+- Q17. Letter Combinations of a Phone Number (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 55.52mb, beats 32.25%)
