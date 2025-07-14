@@ -23,3 +23,4 @@
 - Q22. Generate Parentheses (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 56.41mb, beats 36.09%)
 - Q23. Merge k Sorted Lists (Language: C#, Runtime: 14ms, beats 71.13%, Memory: 48.85mb, beats 49.54%)
 - Q24. Swap Nodes in Pairs (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 41.46mb, beats 51.51%)
+- Q25. Reverse Nodes in k-Group (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 46.18mb, beats 65.87%)

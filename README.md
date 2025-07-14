@@ -1,9 +1,9 @@
 # leetcode records
 -----
-### Amounts of questions completed: 24
+### Amounts of questions completed: 25
 - Languages used:
-  - C# (14 of 24 questions)
-  - TypeScript (10 of 24 questions)
+  - C# (15 of 25 questions)
+  - TypeScript (10 of 25 questions)
 -----
 ### Questions completed:
 - Q1 to Q24
