@@ -1,9 +1,9 @@
 # leetcode records
 -----
-### Amounts of questions completed: 20
+### Amounts of questions completed: 23
 - Languages used:
-  - C# (11 of 20 questions)
-  - TypeScript (9 of 20 questions)
+  - C# (13 of 23 questions)
+  - TypeScript (10 of 23 questions)
 -----
 ### Questions completed:
 - Q1. Two Sum (Language: C#, Runtime: 1ms, beats 98.61%, Memory: 49.04mb, beats 37.83%)
@@ -26,3 +26,6 @@
 - Q18. 4Sum (Language: C#, Runtime: 16ms, beats 53.14%, Memory: 48.59mb, beats 89.47%)
 - Q19. Remove Nth Node From End of List (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 42.66mb, beats 27.98%)
 - Q20. Valid Parentheses (Language: TypeScript, Runtime: 3ms, beats 58.76%, Memory: 57.95mb, beats 42.84%)
+- Q21. Merge Two Sorted Lists (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 43.47mb, beats 56.58%)
+- Q22. Generate Parentheses (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 56.41mb, beats 36.09%)
+- Q23. Merge k Sorted Lists (Language: C#, Runtime: 14ms, beats 71.13%, Memory: 48.85mb, beats 49.54%)
