@@ -24,3 +24,7 @@
 - Q23. Merge k Sorted Lists (Language: C#, Runtime: 14ms, beats 71.13%, Memory: 48.85mb, beats 49.54%)
 - Q24. Swap Nodes in Pairs (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 41.46mb, beats 51.51%)
 - Q25. Reverse Nodes in k-Group (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 46.18mb, beats 65.87%)
+- Q26. Remove Duplicates from Sorted Array (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 51.08mb, beats 69.69%)
+- Q27. Remove Element (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 46.66mb, beats 91.30%)
+- Q28. Find the Index of the First Occurrence in a String (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 53.21mb, beats 98.89%)
+- Q29. Divide Two Integers (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 29.18mb, beats 67.05%)
