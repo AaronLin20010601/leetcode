@@ -30,3 +30,7 @@
 - Q29. Divide Two Integers (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 29.18mb, beats 67.05%)
 - Q30. Substring with Concatenation of All Words (Language: TypeScript, Runtime: 22ms, beats 67.13%, Memory: 64.42mb, beats 29.17%)
 - Q31. Next Permutation (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 47.54mb, beats 57.70%)
+- Q32. Longest Valid Parentheses (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 58.16mb, beats 59.84%)
+- Q33. Search in Rotated Sorted Array (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 42.58mb, beats 64.45%)
+- Q34. Find First and Last Position of Element in Sorted Array (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 49.83mb, beats 61.85%)
+- Q35. Search Insert Position (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 43.08mb, beats 79.99%)
