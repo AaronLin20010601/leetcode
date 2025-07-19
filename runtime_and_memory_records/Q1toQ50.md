@@ -36,3 +36,4 @@
 - Q35. Search Insert Position (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 43.08mb, beats 79.99%)
 - Q36. Valid Sudoku (Language: C#, Runtime: 1ms, beats 98.21%, Memory: 48.02mb, beats 88.96%)
 - Q37. Sudoku Solver (Language: C#, Runtime: 242ms, beats 85.71%, Memory: 48.35mb, beats 18.37%)
+- Q38. Count and Say (Language: TypeScript, Runtime: 4ms, beats 78.91%, Memory: 58.02mb, beats 55.10%)
