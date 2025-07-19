@@ -29,3 +29,4 @@
 - Q28. Find the Index of the First Occurrence in a String (Language: TypeScript, Runtime: 0ms, beats 100.00%, Memory: 53.21mb, beats 98.89%)
 - Q29. Divide Two Integers (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 29.18mb, beats 67.05%)
 - Q30. Substring with Concatenation of All Words (Language: TypeScript, Runtime: 22ms, beats 67.13%, Memory: 64.42mb, beats 29.17%)
+- Q31. Next Permutation (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 47.54mb, beats 57.70%)
