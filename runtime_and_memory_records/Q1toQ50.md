@@ -34,3 +34,5 @@
 - Q33. Search in Rotated Sorted Array (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 42.58mb, beats 64.45%)
 - Q34. Find First and Last Position of Element in Sorted Array (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 49.83mb, beats 61.85%)
 - Q35. Search Insert Position (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 43.08mb, beats 79.99%)
+- Q36. Valid Sudoku (Language: C#, Runtime: 1ms, beats 98.21%, Memory: 48.02mb, beats 88.96%)
+- Q37. Sudoku Solver (Language: C#, Runtime: 242ms, beats 85.71%, Memory: 48.35mb, beats 18.37%)
