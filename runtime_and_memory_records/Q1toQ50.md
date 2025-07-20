@@ -37,3 +37,6 @@
 - Q36. Valid Sudoku (Language: C#, Runtime: 1ms, beats 98.21%, Memory: 48.02mb, beats 88.96%)
 - Q37. Sudoku Solver (Language: C#, Runtime: 242ms, beats 85.71%, Memory: 48.35mb, beats 18.37%)
 - Q38. Count and Say (Language: TypeScript, Runtime: 4ms, beats 78.91%, Memory: 58.02mb, beats 55.10%)
+- Q39. Combination Sum (Language: C#, Runtime: 2ms, beats 80.44%, Memory: 48.21mb, beats 43.72%)
+- Q40. Combination Sum II (Language: C#, Runtime: 2ms, beats 99.25%, Memory: 47.69mb, beats 71.48%)
+- Q41. First Missing Positive (Language: C#, Runtime: 2ms, beats 74.52%, Memory: 64.59mb, beats 28.35%)
