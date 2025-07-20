@@ -40,3 +40,7 @@
 - Q39. Combination Sum (Language: C#, Runtime: 2ms, beats 80.44%, Memory: 48.21mb, beats 43.72%)
 - Q40. Combination Sum II (Language: C#, Runtime: 2ms, beats 99.25%, Memory: 47.69mb, beats 71.48%)
 - Q41. First Missing Positive (Language: C#, Runtime: 2ms, beats 74.52%, Memory: 64.59mb, beats 28.35%)
+- Q42. Trapping Rain Water (Language: C#, Runtime: 2ms, beats 38.15%, Memory: 47.96mb, beats 29.17%)
+- Q43. Multiply Strings (Language: C#, Runtime: 12ms, beats 77.10%, Memory: 43.84mb, beats 48.32%)
+- Q44. Wildcard Matching (Language: TypeScript, Runtime: 46ms, beats 33.33%, Memory: 69.14mb, beats 53.03%)
+- Q45. Jump Game II (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 46.03mb, beats 55.54%)
