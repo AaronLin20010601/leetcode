@@ -44,3 +44,8 @@
 - Q43. Multiply Strings (Language: C#, Runtime: 12ms, beats 77.10%, Memory: 43.84mb, beats 48.32%)
 - Q44. Wildcard Matching (Language: TypeScript, Runtime: 46ms, beats 33.33%, Memory: 69.14mb, beats 53.03%)
 - Q45. Jump Game II (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 46.03mb, beats 55.54%)
+- Q46. Permutations (Language: C#, Runtime: 1ms, beats 83.40%, Memory: 47.49mb, beats 84.79%)
+- Q47. Permutations II (Language: C#, Runtime: 3ms, beats 94.12%, Memory: 49.38mb, beats 93.38%)
+- Q48. Rotate Image (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 47.28mb, beats 10.27%)
+- Q49. Group Anagrams (Language: TypeScript, Runtime: 26ms, beats 75.30%, Memory: 69.45mb, beats 30.01%)
+- Q50. Pow(x, n) (Language: C#, Runtime: 0ms, beats 100.00%, Memory: 25.92mb, beats 28.23%)
