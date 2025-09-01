@@ -1,17 +1,17 @@
 # leetcode records
 -----
-### Amounts of questions completed: 207
+### Amounts of questions completed: 210
 - Languages used:
-  - C# (145 of 207 questions)
-  - TypeScript (50 of 207 questions)
-  - MSSQL (12 of 207 questions)
+  - C# (148 of 210 questions)
+  - TypeScript (50 of 210 questions)
+  - MSSQL (12 of 210 questions)
 -----
 ### Questions completed:
 - Q1 to Q50
 - Q51 to Q100
 - Q101 to Q150
 - Q151 to Q155, Q160, Q162, Q164 to Q169, Q171 to Q185, Q187 to Q191, Q196 to Q200
-- Q201 to Q219
+- Q201 to Q222
 ### Runtime and memory records:
 - Relative records stored in runtime_and_memory_records folder
 ### Notice:
